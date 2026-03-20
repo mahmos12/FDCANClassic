@@ -1,0 +1,16 @@
+2026-03-19 00:00:06,982 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Thread-48" java.lang.NoClassDefFoundError: org/mandas/docker/client/builder/jersey/JerseyDockerClientBuilder
+2026-03-19 00:00:06,987 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:72)
+2026-03-19 00:00:06,989 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:53)
+2026-03-19 00:00:06,990 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerConnection.open(DockerConnection.java:273)
+2026-03-19 00:00:06,992 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultTCPConnectionSettingsProvider.getConnectionSettings(DefaultTCPConnectionSettingsProvider.java:32)
+2026-03-19 00:00:06,993 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultDockerConnectionSettingsFinder.getKnownConnectionSettings(DefaultDockerConnectionSettingsFinder.java:210)
+2026-03-19 00:00:06,994 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$reloadConnections$0(DockerConnectionManager.java:64)
+2026-03-19 00:00:06,995 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-19 00:00:06,997 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Caused by: java.lang.ClassNotFoundException: org.mandas.docker.client.builder.jersey.JerseyDockerClientBuilder cannot be found by org.eclipse.linuxtools.docker.core_5.16.0.202409032037
+2026-03-19 00:00:06,998 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:562)
+2026-03-19 00:00:06,999 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:557)
+2026-03-19 00:00:07,000 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+2026-03-19 00:00:07,001 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+2026-03-19 00:00:07,001 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+2026-03-19 00:00:07,002 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	... 7 more
+2026-03-19 00:13:00,295 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
