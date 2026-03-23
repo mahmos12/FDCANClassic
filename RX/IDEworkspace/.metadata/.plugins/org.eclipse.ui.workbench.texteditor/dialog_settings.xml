@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="rxdata"/>
+		<item value="while"/>
+		<item value="user code gegin 2"/>
+		<item value="header"/>
+		<item value="FDCAN"/>
+		<item value="txHeader"/>
+		<item value="FD"/>
+		<item value="FDFormat"/>
+		<item value="4"/>
+		<item value="BitRateSwitch "/>
+		<item value="filter"/>
+		<item value="HAL_FDCAN_ConfigFilter(&amp;hfdcan1, &amp;sFilterConfig);"/>
+	</list>
+</section>

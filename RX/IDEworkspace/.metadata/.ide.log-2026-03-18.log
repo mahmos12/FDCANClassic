@@ -1,0 +1,364 @@
+2026-03-18 10:38:40,652 [INFO] Activator:176 - 
+
+
+2026-03-18 10:38:40,653 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-18 10:38:44,213 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-18 10:52:29,098 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cmake.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,106 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,129 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,145 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.make.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,151 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.ninja.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,154 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,156 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,158 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.openocd.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,161 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services.mx/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,169 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,171 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.rtosproxy.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,173 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.documentation/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,179 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,183 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,188 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,190 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,193 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.startup/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,196 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,205 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,211 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,228 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,232 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,267 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.debug.openocd/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:29,271 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 10:52:38,670 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Thread-63" java.lang.NoClassDefFoundError: org/mandas/docker/client/builder/jersey/JerseyDockerClientBuilder
+2026-03-18 10:52:38,672 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:72)
+2026-03-18 10:52:38,673 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:53)
+2026-03-18 10:52:38,674 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerConnection.open(DockerConnection.java:273)
+2026-03-18 10:52:38,675 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultTCPConnectionSettingsProvider.getConnectionSettings(DefaultTCPConnectionSettingsProvider.java:32)
+2026-03-18 10:52:38,676 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultDockerConnectionSettingsFinder.getKnownConnectionSettings(DefaultDockerConnectionSettingsFinder.java:210)
+2026-03-18 10:52:38,677 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$reloadConnections$0(DockerConnectionManager.java:64)
+2026-03-18 10:52:38,677 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-18 10:52:38,679 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Caused by: java.lang.ClassNotFoundException: org.mandas.docker.client.builder.jersey.JerseyDockerClientBuilder cannot be found by org.eclipse.linuxtools.docker.core_5.16.0.202409032037
+2026-03-18 10:52:38,680 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:562)
+2026-03-18 10:52:38,681 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:557)
+2026-03-18 10:52:38,681 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+2026-03-18 10:52:38,682 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+2026-03-18 10:52:38,683 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+2026-03-18 10:52:38,683 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	... 7 more
+2026-03-18 11:26:11,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-18 11:38:16,625 [INFO] Activator:176 - 
+
+
+2026-03-18 11:38:16,626 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-18 11:38:23,289 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-18 11:39:12,361 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,381 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,456 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,475 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,482 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cmake.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,488 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.startup/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,539 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,551 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,566 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.make.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,575 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,581 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.ninja.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,587 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,592 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services.mx/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,595 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.openocd.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,598 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,602 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.documentation/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,606 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.rtosproxy.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,611 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,614 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,616 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,624 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,629 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,637 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.debug.openocd/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:12,645 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 11:39:22,852 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Thread-35" java.lang.NoClassDefFoundError: org/mandas/docker/client/builder/jersey/JerseyDockerClientBuilder
+2026-03-18 11:39:22,853 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:72)
+2026-03-18 11:39:22,854 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:53)
+2026-03-18 11:39:22,855 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerConnection.open(DockerConnection.java:273)
+2026-03-18 11:39:22,856 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultTCPConnectionSettingsProvider.getConnectionSettings(DefaultTCPConnectionSettingsProvider.java:32)
+2026-03-18 11:39:22,858 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultDockerConnectionSettingsFinder.getKnownConnectionSettings(DefaultDockerConnectionSettingsFinder.java:210)
+2026-03-18 11:39:22,859 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$reloadConnections$0(DockerConnectionManager.java:64)
+2026-03-18 11:39:22,859 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-18 11:39:22,861 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Caused by: java.lang.ClassNotFoundException: org.mandas.docker.client.builder.jersey.JerseyDockerClientBuilder cannot be found by org.eclipse.linuxtools.docker.core_5.16.0.202409032037
+2026-03-18 11:39:22,862 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:562)
+2026-03-18 11:39:22,862 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:557)
+2026-03-18 11:39:22,863 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+2026-03-18 11:39:22,864 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+2026-03-18 11:39:22,865 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+2026-03-18 11:39:22,865 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	... 7 more
+2026-03-18 16:19:48,724 [INFO] Activator:176 - 
+
+
+2026-03-18 16:19:48,726 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-18 16:19:57,797 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-18 16:20:26,997 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,011 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,023 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,028 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,032 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.startup/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,138 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cmake.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,144 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,162 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,165 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,171 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,174 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.make.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,176 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services.mx/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,178 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,179 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.ninja.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,180 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.documentation/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,182 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,184 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.openocd.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,185 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,189 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.rtosproxy.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,190 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,192 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,194 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,197 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.debug.openocd/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:27,200 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:20:45,991 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Thread-47" java.lang.NoClassDefFoundError: org/mandas/docker/client/builder/jersey/JerseyDockerClientBuilder
+2026-03-18 16:20:45,992 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:72)
+2026-03-18 16:20:45,993 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:53)
+2026-03-18 16:20:45,994 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerConnection.open(DockerConnection.java:273)
+2026-03-18 16:20:45,995 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultTCPConnectionSettingsProvider.getConnectionSettings(DefaultTCPConnectionSettingsProvider.java:32)
+2026-03-18 16:20:45,997 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultDockerConnectionSettingsFinder.getKnownConnectionSettings(DefaultDockerConnectionSettingsFinder.java:210)
+2026-03-18 16:20:45,998 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$reloadConnections$0(DockerConnectionManager.java:64)
+2026-03-18 16:20:45,999 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-18 16:20:46,001 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Caused by: java.lang.ClassNotFoundException: org.mandas.docker.client.builder.jersey.JerseyDockerClientBuilder cannot be found by org.eclipse.linuxtools.docker.core_5.16.0.202409032037
+2026-03-18 16:20:46,002 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:562)
+2026-03-18 16:20:46,003 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:557)
+2026-03-18 16:20:46,003 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+2026-03-18 16:20:46,005 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+2026-03-18 16:20:46,006 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+2026-03-18 16:20:46,006 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	... 7 more
+2026-03-18 16:21:14,025 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-18 16:24:30,502 [INFO] Activator:176 - 
+
+
+2026-03-18 16:24:30,504 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-18 16:24:38,713 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-18 16:25:25,610 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,621 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,624 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cmake.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,630 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,634 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,649 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,652 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,655 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,659 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,661 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services.mx/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,665 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.make.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,667 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.startup/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,670 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,675 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.documentation/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,678 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.ninja.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,680 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,684 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.openocd.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,687 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,691 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.rtosproxy.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,693 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,697 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,699 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,707 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.debug.openocd/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:25,710 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 16:25:55,983 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Thread-32" java.lang.NoClassDefFoundError: org/mandas/docker/client/builder/jersey/JerseyDockerClientBuilder
+2026-03-18 16:25:55,984 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:72)
+2026-03-18 16:25:55,985 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:53)
+2026-03-18 16:25:55,987 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerConnection.open(DockerConnection.java:273)
+2026-03-18 16:25:55,989 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultTCPConnectionSettingsProvider.getConnectionSettings(DefaultTCPConnectionSettingsProvider.java:32)
+2026-03-18 16:25:55,991 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultDockerConnectionSettingsFinder.getKnownConnectionSettings(DefaultDockerConnectionSettingsFinder.java:210)
+2026-03-18 16:25:55,992 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$reloadConnections$0(DockerConnectionManager.java:64)
+2026-03-18 16:25:55,992 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-18 16:25:55,993 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Caused by: java.lang.ClassNotFoundException: org.mandas.docker.client.builder.jersey.JerseyDockerClientBuilder cannot be found by org.eclipse.linuxtools.docker.core_5.16.0.202409032037
+2026-03-18 16:25:55,994 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:562)
+2026-03-18 16:25:55,995 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:557)
+2026-03-18 16:25:55,995 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+2026-03-18 16:25:55,996 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+2026-03-18 16:25:55,996 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+2026-03-18 16:25:55,996 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	... 7 more
+2026-03-18 17:28:22,346 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-18 17:39:58,190 [INFO] Activator:176 - 
+
+
+2026-03-18 17:39:58,192 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-18 17:40:06,776 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-18 17:53:09,672 [INFO] Activator:176 - 
+
+
+2026-03-18 17:53:09,674 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-18 17:53:17,936 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-18 17:55:13,479 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,508 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,534 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,540 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,545 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.startup/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,576 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cmake.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,581 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,585 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,588 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,591 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,594 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services.mx/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,597 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,601 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.make.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,604 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.documentation/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,607 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,611 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.ninja.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,615 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,619 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.openocd.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,624 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,628 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.rtosproxy.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,631 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,635 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,643 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.debug.openocd/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:13,649 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 17:55:25,349 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Thread-60" java.lang.NoClassDefFoundError: org/mandas/docker/client/builder/jersey/JerseyDockerClientBuilder
+2026-03-18 17:55:25,351 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:72)
+2026-03-18 17:55:25,352 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:53)
+2026-03-18 17:55:25,353 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerConnection.open(DockerConnection.java:273)
+2026-03-18 17:55:25,354 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultTCPConnectionSettingsProvider.getConnectionSettings(DefaultTCPConnectionSettingsProvider.java:32)
+2026-03-18 17:55:25,355 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultDockerConnectionSettingsFinder.getKnownConnectionSettings(DefaultDockerConnectionSettingsFinder.java:210)
+2026-03-18 17:55:25,356 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$reloadConnections$0(DockerConnectionManager.java:64)
+2026-03-18 17:55:25,356 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-18 17:55:25,357 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Caused by: java.lang.ClassNotFoundException: org.mandas.docker.client.builder.jersey.JerseyDockerClientBuilder cannot be found by org.eclipse.linuxtools.docker.core_5.16.0.202409032037
+2026-03-18 17:55:25,358 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:562)
+2026-03-18 17:55:25,359 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:557)
+2026-03-18 17:55:25,359 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+2026-03-18 17:55:25,360 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+2026-03-18 17:55:25,361 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+2026-03-18 17:55:25,361 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	... 7 more
+2026-03-18 18:14:26,369 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-18 18:19:38,165 [INFO] Activator:176 - 
+
+
+2026-03-18 18:19:38,167 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-18 18:19:46,242 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-18 18:19:59,182 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cmake.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,187 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,191 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,197 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,199 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,209 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,214 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.make.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,218 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,224 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.ninja.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,227 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.startup/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,238 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.openocd.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,243 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,248 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.rtosproxy.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,252 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services.mx/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,256 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,275 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.documentation/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,278 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,285 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,304 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,318 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,325 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,329 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,339 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.debug.openocd/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:19:59,345 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:20:31,430 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Thread-46" java.lang.NoClassDefFoundError: org/mandas/docker/client/builder/jersey/JerseyDockerClientBuilder
+2026-03-18 18:20:31,432 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:72)
+2026-03-18 18:20:31,433 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:53)
+2026-03-18 18:20:31,434 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerConnection.open(DockerConnection.java:273)
+2026-03-18 18:20:31,435 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultTCPConnectionSettingsProvider.getConnectionSettings(DefaultTCPConnectionSettingsProvider.java:32)
+2026-03-18 18:20:31,436 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultDockerConnectionSettingsFinder.getKnownConnectionSettings(DefaultDockerConnectionSettingsFinder.java:210)
+2026-03-18 18:20:31,438 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$reloadConnections$0(DockerConnectionManager.java:64)
+2026-03-18 18:20:31,438 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-18 18:20:31,440 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Caused by: java.lang.ClassNotFoundException: org.mandas.docker.client.builder.jersey.JerseyDockerClientBuilder cannot be found by org.eclipse.linuxtools.docker.core_5.16.0.202409032037
+2026-03-18 18:20:31,441 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:562)
+2026-03-18 18:20:31,442 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:557)
+2026-03-18 18:20:31,442 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+2026-03-18 18:20:31,447 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+2026-03-18 18:20:31,449 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+2026-03-18 18:20:31,449 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	... 7 more
+2026-03-18 18:38:45,117 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-18 18:50:08,884 [INFO] Activator:176 - 
+
+
+2026-03-18 18:50:08,886 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-18 18:50:17,308 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-18 18:52:39,422 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,431 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cmake.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,439 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,445 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,455 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,462 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,467 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,474 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.make.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,476 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.startup/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,485 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.ninja.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,494 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,500 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.openocd.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,511 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.rtosproxy.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,517 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services.mx/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,523 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,528 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.documentation/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,547 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,557 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,567 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,574 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,599 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,607 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,637 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.debug.openocd/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:39,647 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 18:52:51,724 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Thread-40" java.lang.NoClassDefFoundError: org/mandas/docker/client/builder/jersey/JerseyDockerClientBuilder
+2026-03-18 18:52:51,725 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:72)
+2026-03-18 18:52:51,726 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:53)
+2026-03-18 18:52:51,727 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerConnection.open(DockerConnection.java:273)
+2026-03-18 18:52:51,728 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultTCPConnectionSettingsProvider.getConnectionSettings(DefaultTCPConnectionSettingsProvider.java:32)
+2026-03-18 18:52:51,733 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultDockerConnectionSettingsFinder.getKnownConnectionSettings(DefaultDockerConnectionSettingsFinder.java:210)
+2026-03-18 18:52:51,734 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$reloadConnections$0(DockerConnectionManager.java:64)
+2026-03-18 18:52:51,734 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-18 18:52:51,736 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Caused by: java.lang.ClassNotFoundException: org.mandas.docker.client.builder.jersey.JerseyDockerClientBuilder cannot be found by org.eclipse.linuxtools.docker.core_5.16.0.202409032037
+2026-03-18 18:52:51,741 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:562)
+2026-03-18 18:52:51,743 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:557)
+2026-03-18 18:52:51,744 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+2026-03-18 18:52:51,745 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+2026-03-18 18:52:51,746 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+2026-03-18 18:52:51,747 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	... 7 more
+2026-03-18 19:00:40,151 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-18 19:04:32,195 [INFO] Activator:176 - 
+
+
+2026-03-18 19:04:32,196 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-18 19:04:41,163 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-18 19:04:56,114 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,128 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cmake.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,132 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,152 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,155 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,172 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,177 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,181 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,190 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.make.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,199 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,205 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.startup/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,209 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.common.services.mx/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,211 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.ninja.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,222 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.linkerdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,226 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.openocd.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,230 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.documentation/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,233 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.rtosproxy.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,238 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,242 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,248 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.productdb.debug/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,256 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.common/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,262 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mcu.resources.extended/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,288 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.debug.openocd/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:04:56,295 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Error:  Could not parse XML contribution for "com.st.stm32cube.ide.mpu.linker/". Any contributed extensions and extension points will be ignored.
+2026-03-18 19:05:04,645 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "Thread-27" java.lang.NoClassDefFoundError: org/mandas/docker/client/builder/jersey/JerseyDockerClientBuilder
+2026-03-18 19:05:04,648 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:72)
+2026-03-18 19:05:04,651 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerClientFactory.getClient(DockerClientFactory.java:53)
+2026-03-18 19:05:04,654 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DockerConnection.open(DockerConnection.java:273)
+2026-03-18 19:05:04,656 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultTCPConnectionSettingsProvider.getConnectionSettings(DefaultTCPConnectionSettingsProvider.java:32)
+2026-03-18 19:05:04,658 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.internal.docker.core.DefaultDockerConnectionSettingsFinder.getKnownConnectionSettings(DefaultDockerConnectionSettingsFinder.java:210)
+2026-03-18 19:05:04,661 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.linuxtools.docker.core.DockerConnectionManager.lambda$reloadConnections$0(DockerConnectionManager.java:64)
+2026-03-18 19:05:04,662 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-03-18 19:05:04,665 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Caused by: java.lang.ClassNotFoundException: org.mandas.docker.client.builder.jersey.JerseyDockerClientBuilder cannot be found by org.eclipse.linuxtools.docker.core_5.16.0.202409032037
+2026-03-18 19:05:04,667 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:562)
+2026-03-18 19:05:04,670 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:557)
+2026-03-18 19:05:04,672 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:434)
+2026-03-18 19:05:04,674 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:174)
+2026-03-18 19:05:04,676 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+2026-03-18 19:05:04,677 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	... 7 more
+2026-03-18 19:08:34,073 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
